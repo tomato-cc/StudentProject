@@ -7,8 +7,5 @@
 *.iml
 out
 gen
-*.java
-*.jar
-*.sql
 .gitignore
-/java-swing-sdmo/src/
+
