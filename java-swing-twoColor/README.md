@@ -9,4 +9,4 @@
  - 选球后，并将选球结果打印到文本域，并在购买，购买后将购买信息生成到指定文件夹中
  
   ##### 项目截图
-![Alt text](/images/index.gif)
+![Image text](https://github.com/tomato-cc/StudentProject/blob/master/java-swing-twoColor/images/index.gif)
