@@ -10,3 +10,5 @@
  
   ##### 项目截图
 ![Image text](https://github.com/tomato-cc/StudentProject/blob/master/java-swing-twoColor/images/index.gif)
+
+![Image text](https://github.com/tomato-cc/StudentProject/blob/master/java-swing-twoColor/images/out.png)
