@@ -8,3 +8,11 @@
 
 
 ##### 编码不易，该项目只展示所有项目运行后的截图。如需获取某个demo源码请联系`微信：15838306751`，后续会根据情况酌情考虑进行全部开源
+
+
+#### 创建了一个微信交流群，需要的可以加入：
+![Image text](https://github.com/tomato-cc/StudentProject/blob/master/images/wechat.jpg)
+
+#### 没办法加入的，可以加微信，拉进群
+![Image text](https://github.com/tomato-cc/StudentProject/blob/master/images/we.jpg)
+
